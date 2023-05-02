@@ -1,7 +1,7 @@
 
 My Portfolio
 
-I Have my Own Website in HTMl and CSS.
+I Have Created my Own Website in HTMl and CSS.
 
 The Whole Website is Responsive .
 
